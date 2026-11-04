@@ -1,2 +1,0 @@
-# world-forge
-Worldbuilding Encyclopedia
