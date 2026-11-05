@@ -11,6 +11,7 @@ export default defineConfig({
       { text: 'Magic Systems', link: '/magic/' },
       { text: 'Races & Factions', link: '/races/' },
       { text: 'Dungeons', link: '/dungeons/' },
+      { text: 'Suggest Changes', link: 'https://github.com/anythingcreature/world-forge/issues/new/choose' }
     ],
 
     sidebar: {
