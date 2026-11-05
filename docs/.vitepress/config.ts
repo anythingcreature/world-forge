@@ -1,6 +1,7 @@
 import { defineConfig } from 'vitepress'
 
 export default defineConfig({
+  base: '/world-forge/',
   title: 'World Forge',
   description: 'A living encyclopedia of a world shaped by Aether, Mana, and Potential',
   themeConfig: {
