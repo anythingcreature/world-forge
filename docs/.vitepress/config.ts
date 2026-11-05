@@ -88,10 +88,6 @@ export default defineConfig({
       { icon: 'github', link: 'https://github.com/anythingcreature/world-forge' }
     ],
 
-    search: {
-      provider: 'local'
-    },
-
     footer: {
       message: 'A living record of a world in flux.',
       copyright: 'Maintained by the Archivist'
